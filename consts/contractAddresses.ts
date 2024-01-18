@@ -1,6 +1,8 @@
+import CustomChain from "../consts/chain";
+
 export const nftDropContractAddress =
-  "0x86eAf8D635eb11D5CD801c41744F44e50d4fd8d2";
+  "0x5Baa53AfB5b14aA3e7c70D649D56cfa00BA324eE";
 export const tokenContractAddress =
-  "0x12ea05ba6E8405cBeceB5b51134A821e86858F7E";
+  "0x82fe97150B42286889Dc3f3c8521973D5c0984EE";
 export const stakingContractAddress =
-  "0x830Ace54DFbf3a011601bD0Bc1f9806d45D2d0E4";
+  "0xe7007BCFD9E7B4be1bf7cF2d2a548E23bc1b9f9c";
